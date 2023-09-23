@@ -1,0 +1,4 @@
+x = "new script"
+y = 123
+print (x)
+print (y)
